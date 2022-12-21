@@ -1,0 +1,43 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)
+// swift-module-flags: -target arm64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name Namogoo
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AVFoundation
+import CoreData
+import CoreLocation
+import CoreMotion
+import CoreTelephony
+import Foundation
+@_exported import Namogoo
+import Swift
+import SystemConfiguration
+import UIKit
+import UserNotifications
+import _Concurrency
+import _StringProcessing
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc final public class Namogoo : ObjectiveC.NSObject {
+  final public class func initialize(clientId: Swift.String, customerId: Swift.String? = nil, sessionId: Swift.String? = nil, launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]?)
+  final public class func track(event: Swift.String)
+  @objc deinit
+}
+extension UIKit.UIDevice {
+  @_Concurrency.MainActor(unsafe) public static let modelName: Swift.String
+  @_Concurrency.MainActor(unsafe) public static var cpuinfo: Swift.Dictionary<Swift.String, Swift.String> {
+    get
+  }
+}
+@_inheritsConvenienceInitializers @objc(Event) public class Event : CoreData.NSManagedObject {
+  @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
+  @objc deinit
+}
+extension Namogoo.Event {
+  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<Namogoo.Event>
+  @objc @NSManaged dynamic public var data: Swift.String? {
+    @objc get
+    @objc set
+  }
+  @objc @NSManaged dynamic public var id: Swift.String? {
+    @objc get
+    @objc set
+  }
+}
