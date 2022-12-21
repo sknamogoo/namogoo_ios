@@ -26,18 +26,3 @@ extension UIKit.UIDevice {
     get
   }
 }
-@_inheritsConvenienceInitializers @objc(Event) public class Event : CoreData.NSManagedObject {
-  @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
-  @objc deinit
-}
-extension Namogoo.Event {
-  @nonobjc public class func fetchRequest() -> CoreData.NSFetchRequest<Namogoo.Event>
-  @objc @NSManaged dynamic public var data: Swift.String? {
-    @objc get
-    @objc set
-  }
-  @objc @NSManaged dynamic public var id: Swift.String? {
-    @objc get
-    @objc set
-  }
-}

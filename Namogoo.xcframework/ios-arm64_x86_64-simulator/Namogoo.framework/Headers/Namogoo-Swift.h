@@ -230,7 +230,6 @@ using UInt = size_t;
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
-@import CoreData;
 @import ObjectiveC;
 #endif
 
@@ -252,21 +251,6 @@ using UInt = size_t;
 #endif
 
 #if defined(__OBJC__)
-
-@class NSEntityDescription;
-@class NSManagedObjectContext;
-
-SWIFT_CLASS_NAMED("Event")
-@interface Event : NSManagedObject
-- (nonnull instancetype)initWithEntity:(NSEntityDescription * _Nonnull)entity insertIntoManagedObjectContext:(NSManagedObjectContext * _Nullable)context OBJC_DESIGNATED_INITIALIZER;
-@end
-
-@class NSString;
-
-@interface Event (SWIFT_EXTENSION(Namogoo))
-@property (nonatomic, copy) NSString * _Nullable data;
-@property (nonatomic, copy) NSString * _Nullable id;
-@end
 
 
 
@@ -522,7 +506,6 @@ using UInt = size_t;
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
-@import CoreData;
 @import ObjectiveC;
 #endif
 
@@ -544,21 +527,6 @@ using UInt = size_t;
 #endif
 
 #if defined(__OBJC__)
-
-@class NSEntityDescription;
-@class NSManagedObjectContext;
-
-SWIFT_CLASS_NAMED("Event")
-@interface Event : NSManagedObject
-- (nonnull instancetype)initWithEntity:(NSEntityDescription * _Nonnull)entity insertIntoManagedObjectContext:(NSManagedObjectContext * _Nullable)context OBJC_DESIGNATED_INITIALIZER;
-@end
-
-@class NSString;
-
-@interface Event (SWIFT_EXTENSION(Namogoo))
-@property (nonatomic, copy) NSString * _Nullable data;
-@property (nonatomic, copy) NSString * _Nullable id;
-@end
 
 
 
