@@ -15,19 +15,13 @@ import UIKit
 import UserNotifications
 import _Concurrency
 import _StringProcessing
+@_inheritsConvenienceInitializers @objc(Event) public class Event : CoreData.NSManagedObject {
+  @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
+  @objc deinit
+}
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc final public class Namogoo : ObjectiveC.NSObject {
   final public class func initialize(clientId: Swift.String, customerId: Swift.String? = nil, sessionId: Swift.String? = nil, launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]?)
   final public class func track(event: Swift.String)
-  @objc deinit
-}
-extension UIKit.UIDevice {
-  @_Concurrency.MainActor(unsafe) public static let modelName: Swift.String
-  @_Concurrency.MainActor(unsafe) public static var cpuinfo: Swift.Dictionary<Swift.String, Swift.String> {
-    get
-  }
-}
-@_inheritsConvenienceInitializers @objc(Event) public class Event : CoreData.NSManagedObject {
-  @objc override dynamic public init(entity: CoreData.NSEntityDescription, insertInto context: CoreData.NSManagedObjectContext?)
   @objc deinit
 }
 extension Namogoo.Event {
@@ -39,5 +33,11 @@ extension Namogoo.Event {
   @objc @NSManaged dynamic public var id: Swift.String? {
     @objc get
     @objc set
+  }
+}
+extension UIKit.UIDevice {
+  @_Concurrency.MainActor(unsafe) public static let modelName: Swift.String
+  @_Concurrency.MainActor(unsafe) public static var cpuinfo: Swift.Dictionary<Swift.String, Swift.String> {
+    get
   }
 }
