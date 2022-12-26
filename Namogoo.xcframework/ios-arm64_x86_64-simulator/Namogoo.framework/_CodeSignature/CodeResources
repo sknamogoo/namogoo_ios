@@ -22,7 +22,7 @@
 		</data>
 		<key>Modules/Namogoo.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		eh4Kcd4poKz669gd6jGpNl62BWI=
+		qdVJ2DLsUpI29wrMrW8Ml3fs9oQ=
 		</data>
 		<key>Modules/Namogoo.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,11 +38,11 @@
 		</data>
 		<key>Modules/Namogoo.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		XMFuWdFpden3JSt1qf+l47CQxek=
+		FvcvCkN/X4rVI41+GZ4+W37rwvw=
 		</data>
 		<key>Modules/Namogoo.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		eh4Kcd4poKz669gd6jGpNl62BWI=
+		qdVJ2DLsUpI29wrMrW8Ml3fs9oQ=
 		</data>
 		<key>Modules/Namogoo.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/Namogoo.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		lOveVhFaNL7urFYXvy7jZk97suY=
+		z7HJymVd7f+J7JzASu8MVPrtqZs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -100,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FK7dMU7WOR3uoFbwGu9A0+NHBonFmjWoa56ao+79QrI=
+			JdZLkHG0kXRsiyPDm+7n9qtLngL2KwVYva4GW0dnVgw=
 			</data>
 		</dict>
 		<key>Modules/Namogoo.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -128,14 +128,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8rdqAFtmEjzgCDjYX0ibt8CjCvLwmMfUi2O6PmCOYLQ=
+			wsxnEV2e18eUeig+dOXcjUtexW/HGnsoZTcBV+qqFqk=
 			</data>
 		</dict>
 		<key>Modules/Namogoo.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FK7dMU7WOR3uoFbwGu9A0+NHBonFmjWoa56ao+79QrI=
+			JdZLkHG0kXRsiyPDm+7n9qtLngL2KwVYva4GW0dnVgw=
 			</data>
 		</dict>
 		<key>Modules/Namogoo.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -163,7 +163,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UDufELvLFMcIK60u2ySgimkt4lZSBc33DDJh9VrU3Uw=
+			Kx9rQ/l/FsopzYXZC8ct4QF24eWtx8wkxtqIHUi0zCI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
