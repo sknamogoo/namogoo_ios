@@ -1,0 +1,11 @@
+framework module Namogoo {
+  umbrella header "Namogoo.h"
+
+  export *
+  module * { export * }
+}
+
+module Namogoo.Swift {
+  header "Namogoo-Swift.h"
+  requires objc
+}

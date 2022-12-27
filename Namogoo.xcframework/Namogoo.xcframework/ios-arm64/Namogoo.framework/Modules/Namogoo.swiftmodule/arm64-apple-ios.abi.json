@@ -1,0 +1,3183 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreData",
+        "printedName": "CoreData",
+        "declKind": "Import",
+        "moduleName": "Namogoo"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Namogoo",
+        "printedName": "Namogoo",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "initialize",
+            "printedName": "initialize(clientId:customerId:sessionId:launchOptions:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "[UIKit.UIApplication.LaunchOptionsKey : Any]?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[UIKit.UIApplication.LaunchOptionsKey : Any]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "LaunchOptionsKey",
+                        "printedName": "UIKit.UIApplication.LaunchOptionsKey",
+                        "usr": "c:@T@UIApplicationLaunchOptionsKey"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ProtocolComposition",
+                        "printedName": "Any"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7NamogooAAC10initialize8clientId08customerD007sessionD013launchOptionsySS_SSSgAHSDySo019UIApplicationLaunchH3KeyaypGSgtFZ",
+            "mangledName": "$s7NamogooAAC10initialize8clientId08customerD007sessionD013launchOptionsySS_SSSgAHSDySo019UIApplicationLaunchH3KeyaypGSgtFZ",
+            "moduleName": "Namogoo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "track",
+            "printedName": "track(event:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7NamogooAAC5track5eventySS_tFZ",
+            "mangledName": "$s7NamogooAAC5track5eventySS_tFZ",
+            "moduleName": "Namogoo",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@Namogoo@objc(cs)Namogoo",
+        "mangledName": "$s7NamogooAAC",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "Final",
+          "AccessControl",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "hasMissingDesignatedInitializers": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreData",
+        "printedName": "CoreData",
+        "declKind": "Import",
+        "moduleName": "Namogoo"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreData",
+        "printedName": "CoreData",
+        "declKind": "Import",
+        "moduleName": "Namogoo"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreTelephony",
+        "printedName": "CoreTelephony",
+        "declKind": "Import",
+        "moduleName": "Namogoo"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SystemConfiguration",
+        "printedName": "SystemConfiguration",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreData",
+        "printedName": "CoreData",
+        "declKind": "Import",
+        "moduleName": "Namogoo"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreMotion",
+        "printedName": "CoreMotion",
+        "declKind": "Import",
+        "moduleName": "Namogoo"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo"
+      },
+      {
+        "kind": "Import",
+        "name": "UserNotifications",
+        "printedName": "UserNotifications",
+        "declKind": "Import",
+        "moduleName": "Namogoo"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "Namogoo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "Namogoo"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "UIDevice",
+        "printedName": "UIDevice",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "modelName",
+            "printedName": "modelName",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:So8UIDeviceC7NamogooE9modelNameSSvpZ",
+            "mangledName": "$sSo8UIDeviceC7NamogooE9modelNameSSvpZ",
+            "moduleName": "Namogoo",
+            "static": true,
+            "declAttributes": [
+              "Custom",
+              "HasInitialValue",
+              "Final",
+              "HasStorage"
+            ],
+            "isFromExtension": true,
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:So8UIDeviceC7NamogooE9modelNameSSvgZ",
+                "mangledName": "$sSo8UIDeviceC7NamogooE9modelNameSSvgZ",
+                "moduleName": "Namogoo",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "cpuinfo",
+            "printedName": "cpuinfo",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Swift.String]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:So8UIDeviceC7NamogooE7cpuinfoSDyS2SGvpZ",
+            "mangledName": "$sSo8UIDeviceC7NamogooE7cpuinfoSDyS2SGvpZ",
+            "moduleName": "Namogoo",
+            "static": true,
+            "declAttributes": [
+              "Custom",
+              "Final"
+            ],
+            "isFromExtension": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Dictionary",
+                    "printedName": "[Swift.String : Swift.String]",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:SD"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:So8UIDeviceC7NamogooE7cpuinfoSDyS2SGvgZ",
+                "mangledName": "$sSo8UIDeviceC7NamogooE7cpuinfoSDyS2SGvgZ",
+                "moduleName": "Namogoo",
+                "static": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "isFromExtension": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:objc(cs)UIDevice",
+        "moduleName": "UIKit",
+        "isOpen": true,
+        "intro_iOS": "2.0",
+        "objc_name": "UIDevice",
+        "declAttributes": [
+          "Available",
+          "ObjC",
+          "NonSendable",
+          "Custom",
+          "Dynamic"
+        ],
+        "superclassUsr": "c:objc(cs)NSObject",
+        "isExternal": true,
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/WeatherProvider\/NMGWeatherRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 347,
+      "length": 5,
+      "value": "\"lat\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/WeatherProvider\/NMGWeatherRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 378,
+      "length": 5,
+      "value": "\"lon\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/WeatherProvider\/NMGWeatherRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 406,
+      "length": 7,
+      "value": "\"appid\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/WeatherProvider\/NMGWeatherRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 347,
+      "length": 5,
+      "value": "\"lat\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/WeatherProvider\/NMGWeatherRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 378,
+      "length": 5,
+      "value": "\"lon\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/WeatherProvider\/NMGWeatherRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 406,
+      "length": 7,
+      "value": "\"appid\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIApplicationExtension.swift",
+      "kind": "Dictionary",
+      "offset": 307,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/NSErrorExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 189,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/API\/Namogoo.swift",
+      "kind": "BooleanLiteral",
+      "offset": 345,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/HTTPClient\/NMGDataRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 239,
+      "length": 3,
+      "value": "\"d\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/HTTPClient\/NMGDataRequest.swift",
+      "kind": "StringLiteral",
+      "offset": 239,
+      "length": 3,
+      "value": "\"d\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 205,
+      "length": 12,
+      "value": "\"event_type\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 243,
+      "length": 12,
+      "value": "\"event_time\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 281,
+      "length": 11,
+      "value": "\"clienttag\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 341,
+      "length": 14,
+      "value": "\"build_number\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 414,
+      "length": 13,
+      "value": "\"device_type\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 508,
+      "length": 11,
+      "value": "\"sessionid\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 684,
+      "length": 8,
+      "value": "\"nmgtag\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 743,
+      "length": 14,
+      "value": "\"nmg_features\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 790,
+      "length": 20,
+      "value": "\"nmg_features_array\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 837,
+      "length": 13,
+      "value": "\"ml_features\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 205,
+      "length": 12,
+      "value": "\"event_type\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 243,
+      "length": 12,
+      "value": "\"event_time\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 281,
+      "length": 11,
+      "value": "\"clienttag\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 341,
+      "length": 14,
+      "value": "\"build_number\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 414,
+      "length": 13,
+      "value": "\"device_type\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 508,
+      "length": 11,
+      "value": "\"sessionid\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 684,
+      "length": 8,
+      "value": "\"nmgtag\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 743,
+      "length": 14,
+      "value": "\"nmg_features\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 790,
+      "length": 20,
+      "value": "\"nmg_features_array\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 837,
+      "length": 13,
+      "value": "\"ml_features\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 2820,
+      "length": 7,
+      "value": "\"stack\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 2820,
+      "length": 7,
+      "value": "\"stack\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3017,
+      "length": 10,
+      "value": "\"pi_stack\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Models\/NMGEvent.swift",
+      "kind": "StringLiteral",
+      "offset": 3017,
+      "length": 10,
+      "value": "\"pi_stack\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/CoreData\/NMGCoreDataManager.swift",
+      "kind": "StringLiteral",
+      "offset": 239,
+      "length": 14,
+      "value": "\"NMGDataModel\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/CoreData\/NMGCoreDataManager.swift",
+      "kind": "StringLiteral",
+      "offset": 426,
+      "length": 6,
+      "value": "\"momd\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/CoreData\/NSEntityDescriptionExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 227,
+      "length": 7,
+      "value": "\"Event\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/CoreData\/NSEntityDescriptionExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 227,
+      "length": 7,
+      "value": "\"Event\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/DeviceInfo\/DeviceInfo.swift",
+      "kind": "StringLiteral",
+      "offset": 3495,
+      "length": 21,
+      "value": "\"yyyy-MM-dd HH:mm:ss\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Configuration\/NMGConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 229,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Configuration\/NMGConfig.swift",
+      "kind": "IntegerLiteral",
+      "offset": 636,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Configuration\/NMGConfig.swift",
+      "kind": "IntegerLiteral",
+      "offset": 754,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Configuration\/NMGConfig.swift",
+      "kind": "IntegerLiteral",
+      "offset": 860,
+      "length": 4,
+      "value": "1800"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Configuration\/NMGConfig.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1050,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Configuration\/NMGConfig.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1160,
+      "length": 5,
+      "value": "28800"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/CapturedData\/NMGSessionData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 308,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/CapturedData\/NMGSessionData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 372,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/CapturedData\/NMGSessionData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1046,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/HTTPClient\/NMGReachability.swift",
+      "kind": "StringLiteral",
+      "offset": 1729,
+      "length": 33,
+      "value": "\"ReachabilityChangedNotification\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/HTTPClient\/NMGReachability.swift",
+      "kind": "StringLiteral",
+      "offset": 1851,
+      "length": 21,
+      "value": "\"reachabilityChanged\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/HTTPClient\/NMGReachability.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3067,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/HTTPClient\/NMGReachability.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4168,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/HTTPClient\/NMGReachability.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4240,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/WeatherProvider\/NMGWeatherResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 691,
+      "length": 12,
+      "value": "\"feels_like\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/WeatherProvider\/NMGWeatherResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 727,
+      "length": 10,
+      "value": "\"temp_min\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/WeatherProvider\/NMGWeatherResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 761,
+      "length": 10,
+      "value": "\"temp_max\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/WeatherProvider\/NMGWeatherResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 691,
+      "length": 12,
+      "value": "\"feels_like\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/WeatherProvider\/NMGWeatherResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 727,
+      "length": 10,
+      "value": "\"temp_min\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/WeatherProvider\/NMGWeatherResponse.swift",
+      "kind": "StringLiteral",
+      "offset": 761,
+      "length": 10,
+      "value": "\"temp_max\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 361,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 453,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 739,
+      "length": 9,
+      "value": "\"iPod5,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 795,
+      "length": 29,
+      "value": "\"iPod touch (5th generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 842,
+      "length": 9,
+      "value": "\"iPod7,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 898,
+      "length": 29,
+      "value": "\"iPod touch (6th generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 945,
+      "length": 9,
+      "value": "\"iPod9,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1001,
+      "length": 29,
+      "value": "\"iPod touch (7th generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1048,
+      "length": 11,
+      "value": "\"iPhone3,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1061,
+      "length": 11,
+      "value": "\"iPhone3,2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1074,
+      "length": 11,
+      "value": "\"iPhone3,3\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1104,
+      "length": 10,
+      "value": "\"iPhone 4\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1132,
+      "length": 11,
+      "value": "\"iPhone4,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1188,
+      "length": 11,
+      "value": "\"iPhone 4s\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1217,
+      "length": 11,
+      "value": "\"iPhone5,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1230,
+      "length": 11,
+      "value": "\"iPhone5,2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1273,
+      "length": 10,
+      "value": "\"iPhone 5\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1301,
+      "length": 11,
+      "value": "\"iPhone5,3\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1314,
+      "length": 11,
+      "value": "\"iPhone5,4\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1357,
+      "length": 11,
+      "value": "\"iPhone 5c\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1386,
+      "length": 11,
+      "value": "\"iPhone6,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1399,
+      "length": 11,
+      "value": "\"iPhone6,2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1442,
+      "length": 11,
+      "value": "\"iPhone 5s\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1471,
+      "length": 11,
+      "value": "\"iPhone7,2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1527,
+      "length": 10,
+      "value": "\"iPhone 6\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1555,
+      "length": 11,
+      "value": "\"iPhone7,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1611,
+      "length": 15,
+      "value": "\"iPhone 6 Plus\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1644,
+      "length": 11,
+      "value": "\"iPhone8,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1700,
+      "length": 11,
+      "value": "\"iPhone 6s\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1729,
+      "length": 11,
+      "value": "\"iPhone8,2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1785,
+      "length": 16,
+      "value": "\"iPhone 6s Plus\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1819,
+      "length": 11,
+      "value": "\"iPhone9,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1832,
+      "length": 11,
+      "value": "\"iPhone9,3\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1875,
+      "length": 10,
+      "value": "\"iPhone 7\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1903,
+      "length": 11,
+      "value": "\"iPhone9,2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1916,
+      "length": 11,
+      "value": "\"iPhone9,4\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1959,
+      "length": 15,
+      "value": "\"iPhone 7 Plus\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1992,
+      "length": 12,
+      "value": "\"iPhone10,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2006,
+      "length": 12,
+      "value": "\"iPhone10,4\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2048,
+      "length": 10,
+      "value": "\"iPhone 8\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2076,
+      "length": 12,
+      "value": "\"iPhone10,2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2090,
+      "length": 12,
+      "value": "\"iPhone10,5\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2132,
+      "length": 15,
+      "value": "\"iPhone 8 Plus\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2165,
+      "length": 12,
+      "value": "\"iPhone10,3\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2179,
+      "length": 12,
+      "value": "\"iPhone10,6\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2221,
+      "length": 10,
+      "value": "\"iPhone X\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2249,
+      "length": 12,
+      "value": "\"iPhone11,2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2305,
+      "length": 11,
+      "value": "\"iPhone XS\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2334,
+      "length": 12,
+      "value": "\"iPhone11,4\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2348,
+      "length": 12,
+      "value": "\"iPhone11,6\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2390,
+      "length": 15,
+      "value": "\"iPhone XS Max\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2423,
+      "length": 12,
+      "value": "\"iPhone11,8\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2479,
+      "length": 11,
+      "value": "\"iPhone XR\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2508,
+      "length": 12,
+      "value": "\"iPhone12,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2564,
+      "length": 11,
+      "value": "\"iPhone 11\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2593,
+      "length": 12,
+      "value": "\"iPhone12,3\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2649,
+      "length": 15,
+      "value": "\"iPhone 11 Pro\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2682,
+      "length": 12,
+      "value": "\"iPhone12,5\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2738,
+      "length": 19,
+      "value": "\"iPhone 11 Pro Max\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2775,
+      "length": 12,
+      "value": "\"iPhone13,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2831,
+      "length": 16,
+      "value": "\"iPhone 12 mini\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2865,
+      "length": 12,
+      "value": "\"iPhone13,2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2921,
+      "length": 11,
+      "value": "\"iPhone 12\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2950,
+      "length": 12,
+      "value": "\"iPhone13,3\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 3006,
+      "length": 15,
+      "value": "\"iPhone 12 Pro\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 3039,
+      "length": 12,
+      "value": "\"iPhone13,4\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 3095,
+      "length": 19,
+      "value": "\"iPhone 12 Pro Max\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 3132,
+      "length": 12,
+      "value": "\"iPhone14,4\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 3188,
+      "length": 16,
+      "value": "\"iPhone 13 mini\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 3222,
+      "length": 12,
+      "value": "\"iPhone14,5\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 3278,
+      "length": 11,
+      "value": "\"iPhone 13\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 3307,
+      "length": 12,
+      "value": "\"iPhone14,2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 3363,
+      "length": 15,
+      "value": "\"iPhone 13 Pro\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 3396,
+      "length": 12,
+      "value": "\"iPhone14,3\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 3452,
+      "length": 19,
+      "value": "\"iPhone 13 Pro Max\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 3489,
+      "length": 12,
+      "value": "\"iPhone14,7\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 3545,
+      "length": 11,
+      "value": "\"iPhone 14\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 3574,
+      "length": 12,
+      "value": "\"iPhone14,8\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 3630,
+      "length": 16,
+      "value": "\"iPhone 14 Plus\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 3664,
+      "length": 12,
+      "value": "\"iPhone15,2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 3720,
+      "length": 15,
+      "value": "\"iPhone 14 Pro\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 3753,
+      "length": 12,
+      "value": "\"iPhone15,3\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 3809,
+      "length": 19,
+      "value": "\"iPhone 14 Pro Max\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 3846,
+      "length": 11,
+      "value": "\"iPhone8,4\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 3902,
+      "length": 11,
+      "value": "\"iPhone SE\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 3931,
+      "length": 12,
+      "value": "\"iPhone12,8\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 3987,
+      "length": 28,
+      "value": "\"iPhone SE (2nd generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4033,
+      "length": 12,
+      "value": "\"iPhone14,6\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4089,
+      "length": 28,
+      "value": "\"iPhone SE (3rd generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4135,
+      "length": 9,
+      "value": "\"iPad2,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4146,
+      "length": 9,
+      "value": "\"iPad2,2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4157,
+      "length": 9,
+      "value": "\"iPad2,3\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4168,
+      "length": 9,
+      "value": "\"iPad2,4\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4191,
+      "length": 8,
+      "value": "\"iPad 2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4217,
+      "length": 9,
+      "value": "\"iPad3,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4228,
+      "length": 9,
+      "value": "\"iPad3,2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4239,
+      "length": 9,
+      "value": "\"iPad3,3\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4273,
+      "length": 23,
+      "value": "\"iPad (3rd generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4314,
+      "length": 9,
+      "value": "\"iPad3,4\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4325,
+      "length": 9,
+      "value": "\"iPad3,5\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4336,
+      "length": 9,
+      "value": "\"iPad3,6\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4370,
+      "length": 23,
+      "value": "\"iPad (4th generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4411,
+      "length": 10,
+      "value": "\"iPad6,11\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4423,
+      "length": 10,
+      "value": "\"iPad6,12\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4467,
+      "length": 23,
+      "value": "\"iPad (5th generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4508,
+      "length": 9,
+      "value": "\"iPad7,5\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4519,
+      "length": 9,
+      "value": "\"iPad7,6\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4564,
+      "length": 23,
+      "value": "\"iPad (6th generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4605,
+      "length": 10,
+      "value": "\"iPad7,11\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4617,
+      "length": 10,
+      "value": "\"iPad7,12\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4661,
+      "length": 23,
+      "value": "\"iPad (7th generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4702,
+      "length": 10,
+      "value": "\"iPad11,6\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4714,
+      "length": 10,
+      "value": "\"iPad11,7\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4758,
+      "length": 23,
+      "value": "\"iPad (8th generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4799,
+      "length": 10,
+      "value": "\"iPad12,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4811,
+      "length": 10,
+      "value": "\"iPad12,2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4855,
+      "length": 23,
+      "value": "\"iPad (9th generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4896,
+      "length": 11,
+      "value": "\"iPad13,18\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4909,
+      "length": 11,
+      "value": "\"iPad13,19\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4952,
+      "length": 24,
+      "value": "\"iPad (10th generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 4994,
+      "length": 9,
+      "value": "\"iPad4,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5005,
+      "length": 9,
+      "value": "\"iPad4,2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5016,
+      "length": 9,
+      "value": "\"iPad4,3\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5050,
+      "length": 10,
+      "value": "\"iPad Air\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5078,
+      "length": 9,
+      "value": "\"iPad5,3\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5089,
+      "length": 9,
+      "value": "\"iPad5,4\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5134,
+      "length": 12,
+      "value": "\"iPad Air 2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5164,
+      "length": 10,
+      "value": "\"iPad11,3\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5176,
+      "length": 10,
+      "value": "\"iPad11,4\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5220,
+      "length": 27,
+      "value": "\"iPad Air (3rd generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5265,
+      "length": 10,
+      "value": "\"iPad13,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5277,
+      "length": 10,
+      "value": "\"iPad13,2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5321,
+      "length": 27,
+      "value": "\"iPad Air (4th generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5366,
+      "length": 11,
+      "value": "\"iPad13,16\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5379,
+      "length": 11,
+      "value": "\"iPad13,17\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5422,
+      "length": 27,
+      "value": "\"iPad Air (5th generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5467,
+      "length": 9,
+      "value": "\"iPad2,5\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5478,
+      "length": 9,
+      "value": "\"iPad2,6\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5489,
+      "length": 9,
+      "value": "\"iPad2,7\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5523,
+      "length": 11,
+      "value": "\"iPad mini\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5552,
+      "length": 9,
+      "value": "\"iPad4,4\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5563,
+      "length": 9,
+      "value": "\"iPad4,5\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5574,
+      "length": 9,
+      "value": "\"iPad4,6\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5608,
+      "length": 13,
+      "value": "\"iPad mini 2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5639,
+      "length": 9,
+      "value": "\"iPad4,7\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5650,
+      "length": 9,
+      "value": "\"iPad4,8\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5661,
+      "length": 9,
+      "value": "\"iPad4,9\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5695,
+      "length": 13,
+      "value": "\"iPad mini 3\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5726,
+      "length": 9,
+      "value": "\"iPad5,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5737,
+      "length": 9,
+      "value": "\"iPad5,2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5782,
+      "length": 13,
+      "value": "\"iPad mini 4\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5813,
+      "length": 10,
+      "value": "\"iPad11,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5825,
+      "length": 10,
+      "value": "\"iPad11,2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5869,
+      "length": 28,
+      "value": "\"iPad mini (5th generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5915,
+      "length": 10,
+      "value": "\"iPad14,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5927,
+      "length": 10,
+      "value": "\"iPad14,2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 5971,
+      "length": 28,
+      "value": "\"iPad mini (6th generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6017,
+      "length": 9,
+      "value": "\"iPad6,3\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6028,
+      "length": 9,
+      "value": "\"iPad6,4\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6073,
+      "length": 21,
+      "value": "\"iPad Pro (9.7-inch)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6112,
+      "length": 9,
+      "value": "\"iPad7,3\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6123,
+      "length": 9,
+      "value": "\"iPad7,4\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6168,
+      "length": 22,
+      "value": "\"iPad Pro (10.5-inch)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6208,
+      "length": 9,
+      "value": "\"iPad8,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6219,
+      "length": 9,
+      "value": "\"iPad8,2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6230,
+      "length": 9,
+      "value": "\"iPad8,3\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6241,
+      "length": 9,
+      "value": "\"iPad8,4\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6264,
+      "length": 37,
+      "value": "\"iPad Pro (11-inch) (1st generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6319,
+      "length": 9,
+      "value": "\"iPad8,9\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6330,
+      "length": 10,
+      "value": "\"iPad8,10\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6375,
+      "length": 37,
+      "value": "\"iPad Pro (11-inch) (2nd generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6430,
+      "length": 10,
+      "value": "\"iPad13,4\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6442,
+      "length": 10,
+      "value": "\"iPad13,5\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6454,
+      "length": 10,
+      "value": "\"iPad13,6\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6466,
+      "length": 10,
+      "value": "\"iPad13,7\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6486,
+      "length": 37,
+      "value": "\"iPad Pro (11-inch) (3rd generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6541,
+      "length": 10,
+      "value": "\"iPad14,3\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6553,
+      "length": 10,
+      "value": "\"iPad14,4\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6597,
+      "length": 37,
+      "value": "\"iPad Pro (11-inch) (4th generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6652,
+      "length": 9,
+      "value": "\"iPad6,7\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6663,
+      "length": 9,
+      "value": "\"iPad6,8\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6708,
+      "length": 39,
+      "value": "\"iPad Pro (12.9-inch) (1st generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6765,
+      "length": 9,
+      "value": "\"iPad7,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6776,
+      "length": 9,
+      "value": "\"iPad7,2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6821,
+      "length": 39,
+      "value": "\"iPad Pro (12.9-inch) (2nd generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6878,
+      "length": 9,
+      "value": "\"iPad8,5\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6889,
+      "length": 9,
+      "value": "\"iPad8,6\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6900,
+      "length": 9,
+      "value": "\"iPad8,7\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6911,
+      "length": 9,
+      "value": "\"iPad8,8\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6934,
+      "length": 39,
+      "value": "\"iPad Pro (12.9-inch) (3rd generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 6991,
+      "length": 10,
+      "value": "\"iPad8,11\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7003,
+      "length": 10,
+      "value": "\"iPad8,12\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7047,
+      "length": 39,
+      "value": "\"iPad Pro (12.9-inch) (4th generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7104,
+      "length": 10,
+      "value": "\"iPad13,8\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7116,
+      "length": 10,
+      "value": "\"iPad13,9\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7128,
+      "length": 11,
+      "value": "\"iPad13,10\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7141,
+      "length": 11,
+      "value": "\"iPad13,11\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7160,
+      "length": 39,
+      "value": "\"iPad Pro (12.9-inch) (5th generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7217,
+      "length": 10,
+      "value": "\"iPad14,5\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7229,
+      "length": 10,
+      "value": "\"iPad14,6\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7273,
+      "length": 39,
+      "value": "\"iPad Pro (12.9-inch) (6th generation)\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7330,
+      "length": 12,
+      "value": "\"AppleTV5,3\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7386,
+      "length": 10,
+      "value": "\"Apple TV\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7414,
+      "length": 12,
+      "value": "\"AppleTV6,2\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7470,
+      "length": 13,
+      "value": "\"Apple TV 4K\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7501,
+      "length": 19,
+      "value": "\"AudioAccessory1,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7557,
+      "length": 9,
+      "value": "\"HomePod\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7584,
+      "length": 19,
+      "value": "\"AudioAccessory5,1\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7640,
+      "length": 14,
+      "value": "\"HomePod mini\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7672,
+      "length": 6,
+      "value": "\"i386\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7680,
+      "length": 8,
+      "value": "\"x86_64\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7690,
+      "length": 7,
+      "value": "\"arm64\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7728,
+      "length": 104,
+      "value": "\"Simulator \""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7791,
+      "length": 28,
+      "value": "\"SIMULATOR_MODEL_IDENTIFIER\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7824,
+      "length": 5,
+      "value": "\"iOS\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/Extensions\/UIKit\/UIDeviceExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 7831,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2471,
+      "length": 7,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2480,
+      "length": 7,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2489,
+      "length": 10,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2501,
+      "length": 7,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2510,
+      "length": 7,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2471,
+      "length": 7,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2480,
+      "length": 7,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2489,
+      "length": 10,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2501,
+      "length": 7,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2510,
+      "length": 7,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2471,
+      "length": 7,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2480,
+      "length": 7,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2489,
+      "length": 10,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2501,
+      "length": 7,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2510,
+      "length": 7,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3550,
+      "length": 4,
+      "value": "300"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3638,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3666,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3694,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3725,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3753,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3781,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4002,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4088,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4174,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4266,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4352,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4438,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/MotionDataProvider\/MotionDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4507,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/WeatherProvider\/NMGWeatherProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 179,
+      "length": 34,
+      "value": "\"54309519a66e449b6609a0f439707c74\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/DataSources\/WeatherProvider\/NMGWeatherProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 247,
+      "length": 32,
+      "value": "\"https:\/\/api.openweathermap.org\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/HTTPClient\/NMGRequestHeaders.swift",
+      "kind": "StringLiteral",
+      "offset": 378,
+      "length": 8,
+      "value": "\"Bearer\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/HTTPClient\/NMGRequestHeaders.swift",
+      "kind": "StringLiteral",
+      "offset": 414,
+      "length": 14,
+      "value": "\"Content-Type\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/HTTPClient\/NMGRequestHeaders.swift",
+      "kind": "StringLiteral",
+      "offset": 451,
+      "length": 8,
+      "value": "\"Accept\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/HTTPClient\/NMGRequestHeaders.swift",
+      "kind": "StringLiteral",
+      "offset": 488,
+      "length": 16,
+      "value": "\"Sec-Fetch-Site\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/HTTPClient\/NMGRequestHeaders.swift",
+      "kind": "StringLiteral",
+      "offset": 533,
+      "length": 16,
+      "value": "\"Sec-Fetch-Mode\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/HTTPClient\/NMGRequestHeaders.swift",
+      "kind": "StringLiteral",
+      "offset": 578,
+      "length": 16,
+      "value": "\"Sec-Fetch-Dest\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/HTTPClient\/NMGRequestHeaders.swift",
+      "kind": "StringLiteral",
+      "offset": 378,
+      "length": 8,
+      "value": "\"Bearer\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/HTTPClient\/NMGRequestHeaders.swift",
+      "kind": "StringLiteral",
+      "offset": 414,
+      "length": 14,
+      "value": "\"Content-Type\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/HTTPClient\/NMGRequestHeaders.swift",
+      "kind": "StringLiteral",
+      "offset": 451,
+      "length": 8,
+      "value": "\"Accept\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/HTTPClient\/NMGRequestHeaders.swift",
+      "kind": "StringLiteral",
+      "offset": 488,
+      "length": 16,
+      "value": "\"Sec-Fetch-Site\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/HTTPClient\/NMGRequestHeaders.swift",
+      "kind": "StringLiteral",
+      "offset": 533,
+      "length": 16,
+      "value": "\"Sec-Fetch-Mode\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/HTTPClient\/NMGRequestHeaders.swift",
+      "kind": "StringLiteral",
+      "offset": 578,
+      "length": 16,
+      "value": "\"Sec-Fetch-Dest\""
+    },
+    {
+      "filePath": "\/Users\/runner\/work\/namogoo-source\/namogoo-source\/NamogooDebugApp\/Namogoo\/Internals\/ProcessingManager\/NMGProcessingManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1357,
+      "length": 5,
+      "value": "false"
+    }
+  ]
+}
